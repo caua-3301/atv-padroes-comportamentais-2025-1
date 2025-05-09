@@ -10,6 +10,9 @@ import br.edu.ifpb.ads.padroes.atv1.interfaces.Observer;
 import br.edu.ifpb.ads.padroes.atv1.observers.repositorioDisco.GeneroObserver;
 import br.edu.ifpb.ads.padroes.atv1.observers.repositorioDisco.TituloObserver;
 
+/**
+ * Inicializa a aplicação
+ * */
 public class Main {
     public static void main(String[] args) {
 
